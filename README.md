@@ -27,6 +27,3 @@ Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based
    spicetify config color_scheme Night
    spicetify apply
    ````
-
-# What the thing looks like
-![](night.png)
