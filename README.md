@@ -9,7 +9,7 @@ Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based
 2. Clone the repository.
 
    ````bash
-   git clone https://github.com/Gspr-bit/Spotify-Tokyo-Night-Theme.git
+   git clone https://github.com/joe483/Spotify-Tokyo-Night-Theme.git
    ````
 
 3. Copy the files into `~/.config/spicetify/Themes`.
@@ -24,21 +24,9 @@ Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based
 
    ````bash
    spicetify config current_theme Tokyo
-   spicetify config color_scheme Night|Storm|Light
+   spicetify config color_scheme Night
    spicetify apply
    ````
 
-
-## Color Schemes
-
-### Night
-
+# What the thing looks like
 ![](night.png)
-
-### Storm
-
-![](storm.png)
-
-### Light
-
-![](light.png)
